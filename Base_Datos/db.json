@@ -1,0 +1,81 @@
+{
+  "clients": [
+    {
+      "email": "juan@martinez.com",
+      "password": "$2a$10$dC9w0.BYqt3QqqcFC8iq3eD78xoEZZobXJ9NwHqxKM1EHqkQMLO6m",
+      "rePassword": "12312",
+      "firstname": "Juan",
+      "lastname": "",
+      "id": 1
+    },
+    {
+      "email": "pepe@martinez.com",
+      "password": "$2a$10$dC9w0.BYqt3QqqcFC8iq3eD78xoEZZobXJ9NwHqxKM1EHqkQMLO6m",
+      "rePassword": "78901",
+      "firstname": "Pepe",
+      "lastname": "martinez",
+      "id": 2
+    },
+    {
+      "firstname": "Jose",
+      "lastname": "asdadas",
+      "rePassword": "78901",
+      "id": 3
+    },
+    {
+      "firstname": "Nombre1",
+      "rePassword": "78901",
+      "lastname": "Apellido2",
+      "id": 4
+    },
+    {
+      "firstname": "Nombre2",
+      "lastname": "",
+      "rePassword": "1231231",
+      "id": 5
+    },
+    {
+      "firstname": "Nombre3",
+      "rePassword": "123213123",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "Coca-cola",
+      "price": 0,
+      "cantidad": 508,
+      "precio": 16,
+      "id": 1
+    },
+    {
+      "name": "Pan",
+      "price": "",
+      "cantidad": 321,
+      "precio": 1,
+      "id": 2
+    },
+    {
+      "name": "Leche",
+      "price": "",
+      "cantidad": 98,
+      "precio": 7,
+      "id": 3
+    },
+    {
+      "name": "Pepsi",
+      "price": "",
+      "cantidad": 320,
+      "precio": 15,
+      "id": 4
+    },
+    {
+      "name": "LOW",
+      "price": "",
+      "cantidad": 7,
+      "precio": 1,
+      "id": 5
+    }
+  ],
+  "cartitems": []
+}
